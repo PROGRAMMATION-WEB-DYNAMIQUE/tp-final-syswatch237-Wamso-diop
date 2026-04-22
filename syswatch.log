@@ -1,0 +1,157 @@
+[2026-04-16 12:02:12] === SysWatch démarrage ===
+[2026-04-16 12:02:14] Métriques initiales collectées
+[2026-04-16 12:02:14] Serveur en écoute sur le port 7878
+[2026-04-16 12:02:24] [+] Connexion de 127.0.0.1:11906
+[2026-04-16 12:02:24] [127.0.0.1:11906] commande: 'cpu'
+[2026-04-16 12:02:24] [127.0.0.1:11906] commande: 'mem'
+[2026-04-16 12:02:25] [127.0.0.1:11906] commande: 'quit'
+[2026-04-16 12:02:25] [-] Déconnexion de 127.0.0.1:11906
+[2026-04-16 12:06:14] === SysWatch démarrage ===
+[2026-04-16 12:06:16] Métriques initiales collectées
+[2026-04-16 12:06:16] Serveur en écoute sur le port 7878
+[2026-04-16 12:06:37] [+] Connexion de 127.0.0.1:12419
+[2026-04-16 12:06:37] [+] Connexion de 127.0.0.1:12420
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'GET / HTTP/1.1'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Host: localhost:7878'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Connection: keep-alive'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Cache-Control: max-age=0'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Sec-Fetch-Site: none'
+[2026-04-16 12:06:37] [127.0.0.1:12419] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-16 12:06:38] [127.0.0.1:12419] commande: 'Sec-Fetch-User: ?1'
+[2026-04-16 12:06:38] [127.0.0.1:12419] commande: 'Sec-Fetch-Dest: document'
+[2026-04-16 12:06:38] [127.0.0.1:12419] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-16 12:06:38] [127.0.0.1:12419] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-16 12:06:38] [127.0.0.1:12419] commande: ''
+[2026-04-16 12:06:38] [-] Déconnexion de 127.0.0.1:12419
+[2026-04-16 12:06:38] [+] Connexion de 127.0.0.1:12423
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'GET / HTTP/1.1'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Host: localhost:7878'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Connection: keep-alive'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Cache-Control: max-age=0'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-16 12:06:38] [127.0.0.1:12420] commande: 'Sec-Fetch-Site: none'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: 'Sec-Fetch-User: ?1'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: 'Sec-Fetch-Dest: document'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-16 12:06:39] [127.0.0.1:12420] commande: ''
+[2026-04-16 12:06:39] [-] Déconnexion de 127.0.0.1:12420
+[2026-04-16 12:06:39] [+] Connexion de 127.0.0.1:12427
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'GET / HTTP/1.1'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Host: localhost:7878'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Connection: keep-alive'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Cache-Control: max-age=0'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Sec-Fetch-Site: none'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Sec-Fetch-User: ?1'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Sec-Fetch-Dest: document'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-16 12:06:44] [127.0.0.1:12423] commande: ''
+[2026-04-16 12:06:44] [-] Déconnexion de 127.0.0.1:12423
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'GET / HTTP/1.1'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Host: localhost:7878'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Connection: keep-alive'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Cache-Control: max-age=0'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Sec-Fetch-Site: none'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Sec-Fetch-User: ?1'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Sec-Fetch-Dest: document'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-16 12:07:14] [127.0.0.1:12427] commande: ''
+[2026-04-16 12:07:14] [-] Déconnexion de 127.0.0.1:12427
+[2026-04-16 12:07:14] [+] Connexion de 127.0.0.1:12500
+[2026-04-16 12:07:14] [+] Connexion de 127.0.0.1:12501
+[2026-04-16 12:08:16] [-] Déconnexion de 127.0.0.1:12500
+[2026-04-16 12:08:16] [-] Déconnexion de 127.0.0.1:12501
+[2026-04-22 20:36:40] === SysWatch démarrage ===
+[2026-04-22 20:36:43] Métriques initiales collectées
+[2026-04-22 20:36:43] Serveur en écoute sur le port 7878
+[2026-04-22 20:37:40] [+] Connexion de 127.0.0.1:7038
+[2026-04-22 20:37:40] [+] Connexion de 127.0.0.1:7037
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'GET / HTTP/1.1'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Host: localhost:7878'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Connection: keep-alive'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Sec-Fetch-Site: none'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Sec-Fetch-User: ?1'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Sec-Fetch-Dest: document'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: 'Cookie: NEXT_LOCALE=fr; __next_hmr_refresh_hash__=231'
+[2026-04-22 20:37:40] [127.0.0.1:7037] commande: ''
+[2026-04-22 20:37:40] [-] Déconnexion de 127.0.0.1:7037
+[2026-04-22 20:37:40] [+] Connexion de 127.0.0.1:7040
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'GET / HTTP/1.1'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Host: localhost:7878'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Connection: keep-alive'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Cache-Control: max-age=0'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Sec-Fetch-Site: none'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Sec-Fetch-User: ?1'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Sec-Fetch-Dest: document'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: 'Cookie: NEXT_LOCALE=fr; __next_hmr_refresh_hash__=231'
+[2026-04-22 20:37:41] [127.0.0.1:7038] commande: ''
+[2026-04-22 20:37:41] [-] Déconnexion de 127.0.0.1:7038
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'GET / HTTP/1.1'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Host: localhost:7878'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Connection: keep-alive'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Cache-Control: max-age=0'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'sec-ch-ua-mobile: ?0'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'sec-ch-ua-platform: "Windows"'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Upgrade-Insecure-Requests: 1'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Sec-Fetch-Site: none'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Sec-Fetch-Mode: navigate'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Sec-Fetch-User: ?1'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Sec-Fetch-Dest: document'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Accept-Language: fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: 'Cookie: NEXT_LOCALE=fr; __next_hmr_refresh_hash__=231'
+[2026-04-22 20:37:46] [127.0.0.1:7040] commande: ''
+[2026-04-22 20:37:46] [-] Déconnexion de 127.0.0.1:7040
+[2026-04-22 20:37:46] [+] Connexion de 127.0.0.1:7044
+[2026-04-22 20:37:46] [+] Connexion de 127.0.0.1:7045
+[2026-04-22 20:38:48] [-] Déconnexion de 127.0.0.1:7045
+[2026-04-22 20:38:48] [-] Déconnexion de 127.0.0.1:7044
